@@ -2,7 +2,7 @@
   "name": "booking-system",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harjot1987.github.io/HarjotSpaBooking",
+  "homepage": "https://harjot1987.github.io/HarjotBookingSpaApp",
   "dependencies": {
     "@apollo/client": "^4.1.6",
     "@emotion/react": "^11.14.0",
