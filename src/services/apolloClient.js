@@ -26,8 +26,9 @@ export const client = new ApolloClient({
   cache: new InMemoryCache()
 });
 
-/** this is my branch 1 change */
-/* checking changes */
+/* This is my branch 2 changes */
+
+/* checking changes AGAIN*/
 /* import {
   ApolloClient,
   InMemoryCache,
