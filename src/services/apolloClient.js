@@ -25,6 +25,8 @@ export const client = new ApolloClient({
   link: authLink.concat(httpLink),
   cache: new InMemoryCache()
 });
+
+/** this is my branch 1 change */
 /* checking changes */
 /* import {
   ApolloClient,
